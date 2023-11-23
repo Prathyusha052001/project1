@@ -1,0 +1,4 @@
+
+welcome
+git init :to create repository
+git clone  url:using existing repository (it create a folder/dir in local system)
